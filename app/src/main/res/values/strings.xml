@@ -2,6 +2,7 @@
     <string name="app_name">Convertor de Medidas</string>
     <string name="digite_aqui">digite aqui</string>
     <string name="converter_para">Converter para:</string>
+    <string name="medida_convertida">00,00</string>
     <string name="mm">mm</string>
     <string name="cm">cm</string>
     <string name="dm">dm</string>
@@ -10,15 +11,4 @@
     <string name="hm">hm</string>
     <string name="km">km</string>
     <string name="converter">Clique aqui para converter</string>
-
-
-    <string-array name="unidades_de_medida">
-        <item>mm</item>
-        <item>cm</item>
-        <item>dm</item>
-        <item>m</item>
-        <item>dam</item>
-        <item>hm</item>
-        <item>km</item>
-    </string-array>
 </resources>
